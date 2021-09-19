@@ -39,7 +39,7 @@
 			<h2>/t/ools</h2>
 <?php show_dir("t") ?>
 		</div>
-		<footer><p>&copy;2021 Luqaska</p><a style="float:right" href="https://github.org/luqaska/t3"></a></footer>
+		<footer><p>&copy;2021 Luqaska<a style="float:right" href="https://github.org/luqaska/t3"></a></p></footer>
 	</div>
 </body>
 </html>
