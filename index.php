@@ -39,7 +39,16 @@
 			<h2>/t/ools</h2>
 <?php show_dir("t") ?>
 		</div>
-		<footer><p>&copy;2021 Luqaska<a style="float:right" href="https://github.org/luqaska/t3"></a></p></footer>
+                <div id="linkz">
+                        <h2>Linkz</h2>
+                        <ul>
+                                <li><a href="https://tilde.team">~team</a></li>
+                                <li><a href="https://tilde.team/~lucas/twtxt/">TWTXT</a></li>
+                                <li><a href="https://tildegit.org/luqaska">~git</a></li>
+                                <li><a href="https://github.com/luqaska">GitHub</a></li>
+                        </ul>
+                </div>
+                <footer><p>&copy;2021 Luqaska<a style="float:right;text-decoration:none" href="https://github.org/luqaska/t3">Code</a></p></footer>
 	</div>
 </body>
 </html>
