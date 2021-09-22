@@ -48,7 +48,7 @@
                                 <li><a href="https://github.com/luqaska">GitHub</a></li>
                         </ul>
                 </div>
-                <footer><p>&copy;2021 Luqaska<a style="float:right;text-decoration:none" href="https://github.org/luqaska/t3">Code</a></p></footer>
+                <footer><p>&copy;2021 Luqaska<a style="float:right;text-decoration:none" href="https://github.com/luqaska/t3">Code</a></p></footer>
 	</div>
 </body>
 </html>
